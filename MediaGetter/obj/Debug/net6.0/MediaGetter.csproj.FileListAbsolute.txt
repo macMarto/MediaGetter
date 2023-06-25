@@ -1,0 +1,15 @@
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\bin\Debug\net6.0\MediaGetter.exe
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\bin\Debug\net6.0\MediaGetter.deps.json
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\bin\Debug\net6.0\MediaGetter.runtimeconfig.json
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\bin\Debug\net6.0\MediaGetter.dll
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\bin\Debug\net6.0\MediaGetter.pdb
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\MediaGetter.csproj.AssemblyReference.cache
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\MediaGetter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\MediaGetter.AssemblyInfoInputs.cache
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\MediaGetter.AssemblyInfo.cs
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\MediaGetter.csproj.CoreCompileInputs.cache
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\MediaGetter.dll
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\refint\MediaGetter.dll
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\MediaGetter.pdb
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\MediaGetter.genruntimeconfig.cache
+C:\Users\mati&hisi\Desktop\MediaGetter\MediaGetter\obj\Debug\net6.0\ref\MediaGetter.dll
